@@ -5,8 +5,7 @@ export PATH
 #	System Required: CentOS/Debian/Ubuntu
 #	Description: iptables Port forwarding
 #	Version: 1.1.1
-#	Author: Toyo
-#	Blog: https://doub.io/wlzy-20/
+#	Author: DayDay
 #=================================================
 sh_ver="1.1.1"
 
